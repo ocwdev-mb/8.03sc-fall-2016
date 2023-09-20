@@ -1,0 +1,168 @@
+leftnav:
+- identifier: b58121fc-044c-a70b-f31e-fe5baa5b87f6
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 04ff44e4-0d34-09c8-726b-f5bd29021df8
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  name: 'Part I: Mechanical Vibrations and Waves'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/
+  weight: 30
+- identifier: 240ff61b-57c2-3024-881e-75e9a0e68cde
+  name: 'Part II: Electromagnetic Waves'
+  pageRef: /pages/part-ii-electromagnetic-waves/
+  weight: 40
+- identifier: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  name: 'Part III: Optics'
+  pageRef: /pages/part-iii-optics/
+  weight: 50
+- identifier: 40206992-200d-017e-ca64-aac5b6b7d1e4
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 60
+- identifier: b6ee7c44-6a3a-2ad7-fbfc-44db748bf0a4
+  name: Problem Solving Help Videos
+  pageRef: /pages/problem-solving-help-videos
+  weight: 70
+- identifier: 6e929eb1-7b68-6d35-70ea-402ec87c9a4b
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 80
+- identifier: 3e82f754-857e-4ba1-a211-38f1fe58563f
+  name: Instructor Reflections on Teaching 8.03
+  pageRef: /video_galleries/instructor-insights-videos
+  parent: 04ff44e4-0d34-09c8-726b-f5bd29021df8
+  weight: 10
+- identifier: 4f5f49df-08e6-7313-a6c5-d113aba431c2
+  name: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-1
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 10
+- identifier: de60ad23-ec34-c2de-5ad0-d3eca23fb1e5
+  name: 'Lecture 2: Damped Free Oscillators'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-2
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 20
+- identifier: f635ac92-fa89-71e3-6819-2518b537eb93
+  name: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-3
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 30
+- identifier: 05ac767b-4120-1817-3f89-1143fb7c00eb
+  name: 'Lecture 4: Coupled Oscillators, Normal Modes'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-4
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 40
+- identifier: 9bc91332-1f00-f352-65f3-aede3364abeb
+  name: 'Lecture 5: Beat Phenomena'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-5
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 50
+- identifier: cf85feed-f452-d089-3365-f5c9eca3acb0
+  name: 'Lecture 6: Driven Oscillators, Resonance'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-6
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 60
+- identifier: aa7bcfd6-ec86-3e35-a88d-1a5eba2076b6
+  name: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-7
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 70
+- identifier: ca53d2a9-7539-9f6f-97d2-cbedae117060
+  name: 'Lecture 8: Translation Symmetry'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-8
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 80
+- identifier: de998eb5-074b-7df1-3d10-3d14ca8b2ced
+  name: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-9
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 90
+- identifier: 76628058-7df7-eac4-3ea1-3bd07d2c6250
+  name: Exam 1
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/exam-1
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 100
+- identifier: 0a9b6b96-2334-ae0f-2624-60bcb2eaa2d6
+  name: 'Lecture 10: Traveling Waves'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-10
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 110
+- identifier: 255269d4-70c4-990b-3edd-8effa5e8213a
+  name: 'Lecture 11: Sound Waves'
+  pageRef: /pages/part-i-mechanical-vibrations-and-waves/lecture-11
+  parent: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
+  weight: 120
+- identifier: 44d635cc-e8fd-d43a-e899-5f001ae3388c
+  name: 'Lecture 12: Maxwell''s Equation, Electromagnetic Waves'
+  pageRef: /pages/part-ii-electromagnetic-waves/lecture-12
+  parent: 240ff61b-57c2-3024-881e-75e9a0e68cde
+  weight: 10
+- identifier: f4a13423-bdd7-a179-65ce-b0f19b5833d3
+  name: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'
+  pageRef: /pages/part-ii-electromagnetic-waves/lecture-13
+  parent: 240ff61b-57c2-3024-881e-75e9a0e68cde
+  weight: 20
+- identifier: c1476a90-000b-a128-f6d1-3a5e4049fafb
+  name: 'Lecture 14: Fourier Transform, AM Radio'
+  pageRef: /pages/part-ii-electromagnetic-waves/lecture-14
+  parent: 240ff61b-57c2-3024-881e-75e9a0e68cde
+  weight: 30
+- identifier: 57be2ced-3a20-f9a7-fa7c-61386e73f839
+  name: 'Lecture 15: Uncertainty Principle, 2D Waves'
+  pageRef: /pages/part-ii-electromagnetic-waves/lecture-15
+  parent: 240ff61b-57c2-3024-881e-75e9a0e68cde
+  weight: 40
+- identifier: c84dbaf3-57b2-e84b-1aa1-aa8cea794c86
+  name: 'Lecture 16: 2D and 3D Waves, Snell''s Law'
+  pageRef: /pages/part-ii-electromagnetic-waves/lecture-16
+  parent: 240ff61b-57c2-3024-881e-75e9a0e68cde
+  weight: 50
+- identifier: 4fe00c67-1241-2ec8-3b0f-40f5818b9a6d
+  name: 'Lecture 17: Polarization, Polarizer'
+  pageRef: /pages/part-iii-optics/lecture-17
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 10
+- identifier: fbfb11df-c87e-8464-a19b-8f26fb75c77d
+  name: Exam 2
+  pageRef: /pages/part-iii-optics/exam-2
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 20
+- identifier: 7d3296b3-f48f-d48a-bef1-24b6a4fa4305
+  name: 'Lecture 18: Wave Plates, Radiation'
+  pageRef: /pages/part-iii-optics/lecture-18
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 30
+- identifier: e069a26e-f953-d236-dc90-bcdcb2466c4e
+  name: 'Lecture 19: Waves in Medium'
+  pageRef: /pages/part-iii-optics/lecture-19
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 40
+- identifier: 421db63c-9b50-ba46-6bc2-9ae6df431a14
+  name: 'Lecture 20: Interference, Soap Bubble'
+  pageRef: /pages/part-iii-optics/lecture-20
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 50
+- identifier: babd702c-f112-1939-a9e0-c02a1d617ddb
+  name: 'Lecture 21: Phased Radar, Single Electron Interference'
+  pageRef: /pages/part-iii-optics/lecture-21
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 60
+- identifier: 3bf321ed-8bb2-61b1-4279-a2276aff6f51
+  name: 'Lecture 22: Diffraction, Resolution'
+  pageRef: /pages/part-iii-optics/lecture-22
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 70
+- identifier: 95fe7702-7ee0-466a-a181-80c31fa40386
+  name: 'Lecture 23: Quantum Waves and Gravitational Waves'
+  pageRef: /pages/part-iii-optics/lecture-23
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 80
+- identifier: 9e7f58a6-a530-8e13-cc42-a1813a4fbd62
+  name: 'Lecture 24: Review for Final Exam'
+  pageRef: /pages/part-iii-optics/lecture-24
+  parent: 56206522-3db4-e5d1-3c01-86ef14e4db6a
+  weight: 90
